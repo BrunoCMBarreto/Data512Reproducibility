@@ -1,4 +1,4 @@
-# DATA512 Assignment 1: Reproducibility
+# Analysis of Wikipedia Users by Platform
 
 ### Purpose
 
